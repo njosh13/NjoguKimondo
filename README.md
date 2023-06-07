@@ -33,8 +33,8 @@ src="https://img.shields.io/github/followers/njosh13?logo=github&style=for-the-b
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="Mysql" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="Postgresql" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCss" /></a>
-</p>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/564x/01/fb/38/01fb385f244e2f107467c6bf7fa29853.jpg" width="36" height="36" alt="DRF" /></a>
 </p
 
 ### Socials

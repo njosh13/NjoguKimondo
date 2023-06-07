@@ -6,9 +6,9 @@ I'm a software developer who focuses on making products with clear goals and out
 
 - 🌍  I'm based in Nairobi, KE.
 - 🖥️  Portfolio: Coming Soon!
-- ✉️  You can contact me at [njoshkimondo@gmail.com](mailto:njoshkimonndo@gmail.com)
+- ✉️  You can contact me at [solutionsvitae@gmail.com](mailto:solutionsvitae@gmail.com)
 - 🤝  I'm open to collaborating on interesting projects
-- ⚡ I Love Formula 1 and Football.
+- ⚡  Formula 1 & Football.
 
 <a href="https://twitter.com/Njosh13828784" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Njosh?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
@@ -30,9 +30,9 @@ src="https://img.shields.io/github/followers/njosh13?logo=github&style=for-the-b
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Mysql" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwind-colored.svg" width="36" height="36" alt="TailwindCss" /></a>
-
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="Mysql" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="Postgresql" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCss" /></a>
 </p>
 
 ### Socials

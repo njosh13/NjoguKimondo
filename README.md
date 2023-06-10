@@ -5,7 +5,7 @@
 I'm a software developer who focuses on making products with clear goals and outstanding user experiences.
 
 - 🌍  I'm based in Nairobi, KE.
-- 🖥️  Portfolio: Coming Soon!
+- 🖥️  Portfolio: https://njogu-kimondo.solutionsvitae.co.ke/
 - ✉️  You can contact me at [solutionsvitae@gmail.com](mailto:solutionsvitae@gmail.com)
 - 🤝  I'm open to collaborating on interesting projects
 - ⚡  Formula 1 & Football.
